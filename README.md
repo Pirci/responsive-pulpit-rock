@@ -8,7 +8,7 @@ From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
 
 Preview: https://pirci.github.io/responsive-pulpit-rock/
 
-![screencapture-127-0-0-1-5500-index-html-2021-07-08-11_44_30](https://user-images.githubusercontent.com/43238947/124901044-f2dae700-dfe1-11eb-84d7-ade702b638cc.png)
+![pulpit-homepage](img/demo.gif)
 
 ## What I Learned:
 

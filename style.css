@@ -216,7 +216,71 @@ footer p {
 
 /* Common Mobile Screen Resolution-360×640 – 17.91% */
 @media screen and (max-width: 767px) {
-  body {
-    background-color: red;
+  .container {
+    min-width: 360px;
+  }
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .main br {
+    display: none;
+  }
+
+  header h1 {
+    font-size: 1.8rem;
+  }
+
+  .left-side a {
+    font-size: 1.1rem;
+    padding: 10px 5px 10px 10px;
+    min-width: 150px;
+  }
+
+  .main h2 {
+    font-size: 1.7rem;
+    padding-left: 10px;
+  }
+
+  #view {
+    width: 100%;
+  }
+
+  .main p {
+    font-size: 1.1rem;
+    width: 96%;
+    padding-left: 10px;
+  }
+
+  .main img {
+    /* padding-left: 10px; */
+    width: 100%;
+  }
+
+  .right-side {
+    flex-wrap: wrap;
+    flex-basis: 100%;
+  }
+
+  .right-side br {
+    display: none;
+  }
+
+  .right-side h3 {
+    font-size: 1.3rem;
+  }
+
+  .right-side p {
+    font-size: 1rem;
+  }
+  .right-side > p:last-child {
+    padding-bottom: 20px;
+  }
+
+  footer p {
+    font-size: 0.8rem;
   }
 }
