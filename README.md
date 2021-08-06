@@ -1,9 +1,6 @@
-### Seytech Fullstack Software Developer Bootcamp
+### Pulpit Rock Responsive Page
 
-> HTML & CSS #4th Practice Project (Responsive).
-
-From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
-
+> HTML & CSS Pulpit Rock Project.
 ## Live Demo
 
 Preview: https://pirci.github.io/responsive-pulpit-rock/
